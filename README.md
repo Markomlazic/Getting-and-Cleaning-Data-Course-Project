@@ -8,7 +8,7 @@ This repo contains 2 files: run_analysis.R (R scrip to perform analysis) and Cod
 
 ## Creating the data set
 
-The R script run_analysis.R can be used to create the tidy_avg_data.txt data set. It downloads the source data and transforms it to produce the final data set by implementing the following steps:
+The R script run_analysis.R can be used to create the Tidy_avg_data.txt data set. It downloads the source data and transforms it to produce the final data set by implementing the following steps:
 
 1. Download and unzip source data.
 2. Read test and train data.
