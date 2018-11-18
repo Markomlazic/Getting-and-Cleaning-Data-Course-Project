@@ -17,7 +17,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 * Average time-domain body acceleration in the X, Y and Z directions:
 tBodyAccMeanX
+
 tBodyAccMeanY
+
 tBodyAccMeanZ
 
 * Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
