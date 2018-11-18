@@ -17,4 +17,4 @@ The R script run_analysis.R can be used to create the tidy_avg_data.txt data set
 5. Use descriptive activity names to name the activities in the data set.
 6. Appropriately label the data set with descriptive variable names.
 7. Create a second, independent tidy set with the average of each variable for each activity and each subject.
-8. Write the data set to the tidy_data.txt file.
+8. Write the data set to the Tidy_avg_data.txt file.
